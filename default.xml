@@ -14,7 +14,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="aosp" name="kernel/common" remote="aosp" revision="refs/tags/android14-6.1-2025-08_r8">
+  <project path="aosp" name="Trijal08/anaconda_kernel_google_tensynos" remote="github" revision="upstream-6.1.y">
     <linkfile dest="common/build.config.constants" src="build.config.constants" />
     <linkfile dest="common/modules.bzl" src="modules.bzl" />
   </project>
